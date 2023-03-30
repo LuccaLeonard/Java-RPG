@@ -1,0 +1,32 @@
+-=---=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+DESCRIÇÃO CLASSE
+
+1- Guerreiro: Um guerreiro pode ser uma escolha sólida para jogadores que gostam de combate corpo a corpo e de causar grandes quantidades de dano. Eles são resistentes e capazes de usar várias armas e armaduras.
+
+2- Mago: Um mago pode ser uma escolha poderosa para jogadores que gostam de conjurar magia e causar grandes danos de longe. Eles também podem curar aliados e manipular o ambiente.
+
+3- Arqueiro: Um arqueiro é um especialista em combate a distância que usa um arco e flechas para atacar seus inimigos com precisão
+Eles são ágeis e podem se mover rapidamente pelo campo de batalha, tornando-se difíceis de atingir.
+
+
+-=---=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+SISTEMA DE ATAQUE
+
+Guerreiro:
+Ataque fraco: Corte horizontal - o guerreiro realiza um golpe horizontal com sua arma. Dano moderado.
+Ataque médio: Investida com escudo - o guerreiro corre em direção ao inimigo e ataca com seu escudo. Dano moderado, mas também empurra o inimigo para trás.
+Ataque forte: Golpe de força - o guerreiro utiliza toda sua força para golpear o inimigo com sua arma. Dano elevado, mas também pode deixar o guerreiro exposto a um contra-ataque.
+
+Mago:
+Ataque fraco: Rajada de vento - o mago conjura uma rajada de vento que empurra o inimigo para trás. Dano baixo.
+Ataque médio: Bola de energia - o mago conjura uma esfera de energia mágica que causa dano moderado em um alvo único.
+Ataque forte: Tempestade de raios - o mago conjura uma tempestade de raios que atinge todos os inimigos próximos. Dano elevado, mas também pode atingir aliados próximos.
+
+Arqueiro:
+
+Ataque fraco: Flecha rápida - o arqueiro dispara uma flecha rapidamente em direção ao inimigo. Dano baixo, mas velocidade e precisão elevadas.
+
+Ataque médio: Flecha de perfuração - o arqueiro dispara uma flecha especialmente projetada para penetrar em armaduras ou escudos. Dano moderado, mas com uma maior chance de acertar um golpe crítico.
+
+Ataque forte: Chuva de flechas - o arqueiro dispara várias flechas em rápida sucessão, causando dano moderado a vários inimigos próximos. Esse ataque também pode atordoar os inimigos e reduzir sua precisão, dando uma vantagem tática ao arqueiro e a seus aliados.
+sistema de defesa para cada classe

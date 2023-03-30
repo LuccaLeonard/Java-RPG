@@ -1,0 +1,31 @@
+inimigos 
+
+Goblin:
+Os goblins são criaturas pequenas e astutas, mas muito perigosas em grandes números. Eles possuem poucos pontos de vida e dano moderado, mas são rápidos e ágeis, o que os torna difíceis de atingir. Eles são excelentes em ataques furtivos e tendem a atacar em grupos.
+À medida que o jogador avança no jogo, os goblins podem ser encontrados em grupos maiores e com maior poder de fogo, como arqueiros goblins ou goblins montados em wargs.
+
+Troll:
+Trolls são criaturas gigantes e musculosas, conhecidos por sua resistência e força formidável. Eles possuem uma grande quantidade de pontos de vida e são capazes de regenerar rapidamente ferimentos menores, tornando-os difíceis de serem mortos sem uma estratégia adequada.
+Os trolls são frequentemente encontrados em áreas montanhosas ou cavernas escuras, onde aproveitam sua habilidade de escalar paredes íngremes para emboscar suas presas. Eles podem ser encontrados sozinhos ou em grupos liderados por um chefe troll ainda mais poderoso, capaz de lançar magias ou invocar aliados para ajudá-lo na batalha. Seus ataques são frequentemente baseados em golpes poderosos com suas mãos enormes e pedregosas ou em suas armas brutais, como machados ou maças.
+
+Dragão:
+Dragões são criaturas lendárias e temidas, capazes de destruir exércitos inteiros com seu fogo respirado. Eles possuem uma grande quantidade de pontos de vida e uma armadura natural que os torna difíceis de atingir. Eles também possuem ataques físicos poderosos, como garras e mordidas.
+À medida que o jogador avança no jogo, os dragões podem ser encontrados em tamanhos e idades diferentes, cada vez mais poderosos e difíceis de derrotar, como dragões jovens, adultos e anciões, cada um com habilidades e ataques únicos.
+
+ataques 
+
+Goblin:
+Ataque fraco: golpe com o punho.
+Ataque médio: ataque com adaga.
+Ataque forte: explosão de pólvora (o goblin usa uma bomba ou granada para causar dano em área).
+
+Troll:
+Ataque fraco: soco comum.
+Ataque médio: golpe com clava.
+Ataque forte: queda de pedras (o troll usa sua força para derrubar uma rocha ou objeto pesado sobre o alvo).
+
+Dragão:
+Ataque fraco: jato de fogo ou gelo de curta distância.
+Ataque médio: baforada de fogo ou gelo de média distância.
+Ataque forte: sopro de chamas ou rajada de gelo que percorre uma grande área.
+
